@@ -16,9 +16,7 @@ export default function Banner() {
       <div className="content">
         <h3>
           fresh and
-          {' '}
           <span>organic</span>
-          {' '}
           products
         </h3>
         <p>

@@ -15,14 +15,10 @@ export default function UserForm(props) {
         <input type="password" placeholder="your password" />
       </div>
       <p>
-        forgot your password
-        {' '}
-        <a href="/">click here</a>
+        forgot your password <a href="/">click here</a>
       </p>
       <p>
-        don&apos;t have an account
-        {' '}
-        <a href="/">create now</a>
+        don&apos;t have an account <a href="/">create now</a>
       </p>
       <button type="submit" className="btn">
         login now

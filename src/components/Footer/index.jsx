@@ -32,22 +32,22 @@ export default function Footer() {
             Laudantium?
           </p>
           <div className="share">
-            <a href="/">
+            <a href="/" aria-label="Facebook">
               <i>
                 <FontAwesomeIcon className="fa-icon" icon={faFacebookF} />
               </i>
             </a>
-            <a href="/">
+            <a href="/" aria-label="Twitter">
               <i>
                 <FontAwesomeIcon className="fa-icon" icon={faTwitter} />
               </i>
             </a>
-            <a href="/">
+            <a href="/" aria-label="Instagram">
               <i>
                 <FontAwesomeIcon className="fa-icon" icon={faInstagram} />
               </i>
             </a>
-            <a href="/">
+            <a href="/" aria-label="LinkedIn">
               <i>
                 <FontAwesomeIcon className="fa-icon" icon={faLinkedin} />
               </i>
@@ -133,9 +133,7 @@ export default function Footer() {
       <div className="credits">
         <p>
           Created By
-          {' '}
           <span>Mr. Web Designer</span>
-          {' '}
           | All Rights Reserved
         </p>
       </div>

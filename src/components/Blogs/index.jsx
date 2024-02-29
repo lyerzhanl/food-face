@@ -9,7 +9,6 @@ export default function Blogs() {
     <section className="blogs" id="blogs">
       <h1 className="heading">
         our
-        {' '}
         <span>blogs</span>
       </h1>
       <div className="box-container">
@@ -32,7 +31,8 @@ export default function Blogs() {
             </div>
             <h3>Fresh And Organic Vegetables And Fruits</h3>
             <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
+              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam,
+              Expedita.
             </p>
             <a href="/" className="btn">
               read more
@@ -58,7 +58,8 @@ export default function Blogs() {
             </div>
             <h3>Fresh And Organic Vegetables And Fruits</h3>
             <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
+              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam,
+              Expedita.
             </p>
             <a href="/" className="btn">
               read more
@@ -84,7 +85,8 @@ export default function Blogs() {
             </div>
             <h3>Fresh And Organic Vegetables And Fruits</h3>
             <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
+              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam,
+              Expedita.
             </p>
             <a href="/" className="btn">
               read more
